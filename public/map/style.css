@@ -112,3 +112,145 @@ svg {
   line-height: 20px;
   padding-left: 3px;
 }
+
+#video-container, #district-container {
+  display: none;
+}
+
+/* Default styles for #explore */
+#explore {
+  font-size: 5rem;
+  line-height: 90px;
+  font-weight: bolder;
+  margin: 20px 20px 20px 20px;
+}
+
+/* Media query for viewports 768px or smaller */
+@media (max-width: 768px) {
+  #explore {
+    font-size: 3rem; /* Adjust this value as needed */
+    line-height: 60px; /* Adjust this value as needed */
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+  }
+}
+
+#explore-div p {
+  margin: 20px 20px 20px 20px;
+
+}
+
+
+
+    .hero-content {
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        z-index: 10;
+        padding: 20px;
+        background: linear-gradient(360deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+        border-radius: 10px;
+        width: 90vw;
+    }
+    .hero-title {
+        color: #fff;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        font-size: 1.65rem;
+    }
+    .hero-paragraph {
+        font-size: 1rem;
+        text-align: center;
+        color: #fff;
+    }
+
+
+    @media (max-width: 767.98px) {
+        .hero-content {
+            top: 60%; 
+            padding: 10px;
+            width: 95vw; 
+        }
+        .hero-title {
+            font-size: 1rem; 
+        }
+        .hero-paragraph {
+            font-size: 0.7rem; 
+        }
+    }
+
+    @media (max-width: 480px) {
+        .hero-content, .hero-title, .hero-paragraph {
+ display: none
+        }
+
+    }
+
+
+    #map-container {
+
+
+  
+      justify-content: center;
+      align-items: center;
+      z-index: 0;
+
+
+    }
+
+
+
+    @media (max-width: 1276px) {
+
+      #palestine {
+        position: relative;
+        left: -150px;
+  
+      }
+
+    }
+
+    @media (max-width: 1225px) {
+
+      #palestine {
+        position: relative;
+        left: -180px;
+  
+      }
+
+    }
+
+    @media (max-width: 1200px) {
+
+      #palestine {
+        position: relative;
+        left: -210px;
+  
+      }
+
+    }
+
+    @media (max-width: 768px) {
+
+      #palestine {
+        position: relative;
+        left: -135px;
+  
+      }
+
+    }
+
+    @media (max-width: 374px) {
+
+      #palestine {
+        position: relative;
+        left: -175px;
+  
+      }
+
+    }
+
+ 
+
+ 

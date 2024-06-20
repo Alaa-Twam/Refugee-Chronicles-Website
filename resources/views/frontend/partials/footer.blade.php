@@ -49,6 +49,18 @@
                             <i class="fa-brands fa-linkedin"></i>
                             <i class="fa-brands fa-linkedin"></i>
                         </a>
+                        <a href="https://x.com/Nakbarefugees"  target="_blank" class="social-icon border-transparent si-small me-0 h-bg-dark">
+                            <i class="fa-brands fa-x"></i>
+                            <i class="fa-brands fa-x"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@refugeechronicles"  target="_blank" class="social-icon border-transparent si-small me-0 h-bg-tiktok">
+                            <i class="fa-brands fa-tiktok"></i>
+                            <i class="fa-brands fa-tiktok"></i>
+                        </a>
+                        <a href=" https://www.youtube.com/channel/UCEgm_ejptusJN2g_diuEtPg"  target="_blank" class="social-icon border-transparent si-small me-0 h-bg-youtube">
+                            <i class="fa-brands fa-youtube"></i>
+                            <i class="fa-brands fa-youtube"></i>
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-5 text-md-end text-center">
