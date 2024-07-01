@@ -74,7 +74,7 @@
                     <h5 class="explore-title" id="explore">
                         Explore Palestine's History.
                     </h5>
-                    <p>To discover powerful firsthand accounts of Nakba survivors, click on the designated area of the map. Each pin reveals personal narratives and reflections, offering profound insights into this pivotal historical event.</p>
+                    <p id="explore-p">To discover powerful firsthand accounts of Nakba survivors, click on the designated area of the map. Each pin reveals personal narratives and reflections, offering profound insights into this pivotal historical event.</p>
                    
                 </div>
                 <!-- Explore Container END -->
