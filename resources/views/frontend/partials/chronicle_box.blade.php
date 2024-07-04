@@ -7,7 +7,7 @@
         <img src="{{ asset('frontend/images/play.png') }}" class="play-icon" />
     </div>
     <div class="fbox-content px-0">
-        <h3 class="font-16">{{ strip_tags($chronicle->title) }}</h3>
+        <h3 style="text-align: left;" class="font-16">{{ strip_tags($chronicle->title) }}</h3>
         <div class="chronicle-content font-13"  style="font-size: 13px; text-align:left;">
                 {!! htmlspecialchars_decode($chronicle->description) !!}
         </div>
